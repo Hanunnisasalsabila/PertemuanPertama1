@@ -15,4 +15,6 @@ int main()
 
 	double nJejari, nLuas;
 
+	cout << "Masukan Jejari = ";
+	cin >> nJejari;
 
